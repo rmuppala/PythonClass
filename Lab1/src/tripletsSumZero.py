@@ -1,7 +1,9 @@
+#define try , exception when converting char to num
+
 try:
 
-    intnums = list()
-    triple0 = list()
+    intnums = list() #numbers to hold in int format
+    triple0 = list() #tuples to hold triplets sum to zero
 
     print ("Enter  numbers  separated by a single space only" )
 
