@@ -1,0 +1,24 @@
+Blood cancers such as multiple myeloma affect the function and production of blood cells. In most blood cancers, normal blood cell development is interrupted by uncontrolled growth of abnormal blood cells. The abnormal blood cells can prevent blood from fighting off infection or preventing uncontrolled bleeding. There are three main blood cancer types:
+Multiple Myeloma is a blood cancer that affects the plasma cells in bone marrow, causing them to form a tumor. Plasma cells are the white blood cells that make antibodies to fight off infections. Myeloma is often found in multiple places in the body, and is referred to as multiple myeloma. In rare cases myeloma is found in one place in the body, and is called solitary myeloma. Myeloma blood cancer treatment may include chemotherapy, radiation and stem cell transplant.
+Leukemia is a blood cancer in both the bone marrow and in blood itself. Both types of leukemia involve an over-production of white blood cells. Lymphocytic leukemia involves over-production of lymphocytes, and myelogenous leukemia involves over-production of white blood cells called granulocytes. Over time, leukemia cells crowd out normal blood cells leading to serious bleeding and infection.
+Lymphoma is a blood cancer that develops in the lymphatic system. The lymphatic system is made up of groups of lymph nodes which keep body fluids free from infection. The blood cancer may spread from one group of lymph nodes to another in order (Hodgkin lymphoma) or spread randomly (non-Hodgkin lymphoma).
+The importance of genomics
+One area researchers are working on is better understanding the biology of multiple myeloma. Through genomic studies (studies of the tumor cell DNA), we have learned that there are many DNA alterations in myeloma cells, and these frequently differ from patient to patient. The ultimate goal of genomic research is to develop personalized treatments based on the DNA in the myeloma cells of individual patients. These frequently differ from patient to patient. There is not one set of defining alterations.
+Today, we know that certain DNA alterations indicate how aggressive the myeloma is and, in some cases, test results can help guide treatment decisions or determine eligibility for multiple myeloma clinical trials.
+
+The complications of multiple myeloma stem from myeloma’s effect on the body as well as its symptoms. As the myeloma cells grow in excess, they disrupt normal cell production, which can result in numerous health complications. The exact complications of multiple myeloma will vary by individual; however, multiple myeloma primarily affects the bones, the blood and the kidneys.
+
+Bone loss is the most common complication of multiple myeloma, and 85% of patients diagnosed with multiple myeloma typically have some degree of bone loss. The most commonly affected bones are the spine, pelvis, and rib cage. Bone loss in myeloma patients may be treated with bisphosphonates or radiation therapy.
+
+The growing number of myeloma cells can interfere with the production of all types of blood cells. Decreased red blood cell production can result in anemia, which is present in approximately 60% of patients at diagnosis.
+
+Excess M protein and calcium in the blood overwork the kidneys as they filter blood. The amount of urine produced may decrease, and the kidneys may fail to function normally.
+
+The number of myeloma cells also impacts the production of white blood cells. Reduced levels of infection fighting white blood cells leads to myeloma patients are especially prone to infection. In addition, the abnormal antibodies produced by myeloma cells may crowd out normal antibodies, resulting in a weakened immune system. Several preventative steps may be taken to decrease the risk of infections for multiple myeloma patients.
+
+For most DNA alterations, there are not enough data to guide treatment decisions. An exception is t(4;14). This is one of a type of chromosomal abnormalities called translocation in which a chromosome breaks and a portion of it reattaches to a different chromosome.
+
+Studies have shown that patients with t(4;14) have better outcomes when treated with a proteasome inhibitor, such as Velcade.
+
+Factors determining multiple myeloma treatment
+There is no one standard multiple myeloma treatment. A patient’s individual treatment plan is based on a number of things, including:
