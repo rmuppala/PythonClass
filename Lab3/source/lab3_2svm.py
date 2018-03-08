@@ -10,15 +10,17 @@ y=irisdatasets.target
 
 
 
-#split the data for training and testing
-x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2)
 
 
-svcl = svm.SVC(kernel='linear')
-svcl.fit(x_train, y_train)
-print("SVC Accuracy Linear Kernal  = ", svcl.score(x_test,y_test))
+for i in range (1,6):
+    # split the data for training and testing
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
 
-svcr = svm.SVC(kernel='rbf')
-svcr.fit(x_train, y_train)
+    svcl = svm.SVC(kernel='linear')
+    svcl.fit(x_train, y_train)
+    print(i,"SVC Accuracy Linear Kernal  = ", svcl.score(x_test,y_test))
 
-print("SVC Accuracy RBF Kernal    = ",svcr.score(x_test,y_test))
+    svcr = svm.SVC(kernel='rbf')
+    svcr.fit(x_train, y_train)
+
+    print(i,"SVC Accuracy RBF Kernal    = ",svcr.score(x_test,y_test))
